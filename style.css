@@ -10,9 +10,7 @@
   font-size: 30px;
   color: white;
 }
-.buttonBox:active{
-  background-color:red;
-}
+
 .button {
   text-align: center;
   padding: 20px;
